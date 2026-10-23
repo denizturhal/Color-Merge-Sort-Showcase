@@ -6,7 +6,7 @@
 
 A calm but tricky mobile puzzle game. Mix primary colors into secondary colors, fill every tube with its own color, and paint a black-and-white garden back to life.
 
-Built solo with Unity 6 (URP 2D) for iOS. **Coming soon to the App Store.**
+Built solo with Unity 6 (URP 2D) for iOS and Android. **Coming soon to the App Store.**
 
 <p align="center">
   <img src="docs/media/gameplay.gif" alt="Gameplay" width="300">
@@ -75,7 +75,7 @@ The Journey map shows how far you've come, which color or mechanic unlocks next,
 
 ## Under the hood
 
-- Unity 6, URP 2D, C#, built for iOS
+- Unity 6, URP 2D, C#
 - Drag-and-drop disc input with merge and pour animations
 - A built-in level solver and a deterministic analysis bot, used to check that every level can be solved and to tune difficulty across chapters
 - Data-driven levels, color unlocks and progression
